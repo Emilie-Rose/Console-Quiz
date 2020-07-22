@@ -1,2 +1,2 @@
 # Console-Quiz Game with different categories!
-Quiz Game
+Just a quiz game with severals categories in the console.
